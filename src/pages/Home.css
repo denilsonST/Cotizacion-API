@@ -1,0 +1,16 @@
+
+.h2{
+font-family: 'Roboto', sans-serif;
+color:black
+}
+
+.img{
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+div.content{
+    background-color:azure;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}

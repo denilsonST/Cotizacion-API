@@ -1,0 +1,30 @@
+#cabecera{
+    background :rgb(12, 102, 175);
+    color: white;
+    border-width: 5px;
+    border-color: black;
+}
+
+#userImg{
+    color: rgba(19, 18, 18, 0.993);
+}
+
+#navmenu{
+    border: 15px;
+    font-family: 'Roboto', sans-serif;
+    border-color: black;
+    background:cornsilk;
+}
+
+a.nav-link{
+    color: #47525e;
+}
+a.nav-link:hover{
+    background-color: #e5e9f2;
+    color: #3479c4; 
+}
+
+.h2{
+    font-family: 'Roboto', sans-serif;
+    
+}
